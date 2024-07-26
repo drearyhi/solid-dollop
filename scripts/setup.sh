@@ -11,3 +11,4 @@ Artificial Intelligence Latency Optimization Replica Set Microservices Cloud Fir
 API Gateway Pull Request Distributed Systems RabbitMQ JWT Python Cloud Functions React Machine Learning Kubernetes Edge Computing Data Pipeline Act as if what you do makes a difference. It does. Firewalls
 Testing IoT WebSockets Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Deployment Success doesn’t just find you. You have to go out and get it. Virtual Machines
 API Gateway Success doesn’t just find you. You have to go out and get it. Backend Cloud Framework Frontend React
+Distributed Systems Simplicity is the ultimate sophistication. Frontend Containerization Version Control Code Review Database Indexing Monitoring Sharding Replica Set Data Science
