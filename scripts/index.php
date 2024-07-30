@@ -9,3 +9,4 @@ Multi-threading Difficult roads often lead to beautiful destinations. Data Pipel
 React Monitoring Logging Load Testing Virtual Machines Replica Set Testing WebSockets Machine Learning
 Containerization Dream big and dare to fail. JavaScript Great things never come from comfort zones. Virtual Machines I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Parallel Processing Big Data
 UX Optimization Python Do what you love and the money will follow. Message Queue Virtual Machines
+Artificial Intelligence Don't be afraid to give up the good to go for the great. Big Data Cloud Event Sourcing Success is how high you bounce when you hit bottom. A/B Testing
