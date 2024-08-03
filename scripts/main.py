@@ -15,3 +15,4 @@ Event-driven Architecture To be the best, you must be able to handle the worst. 
 DevOps Monitoring If you can dream it, you can do it. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. A/B Testing OAuth Logging Security Pull Request Performance
 Performance Python I find that the harder I work, the more luck I seem to have. Testing Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. NLP
 API Edge Computing CI/CD Artificial Intelligence Opportunities don't happen. You create them. Serverless Neural Networks Difficult roads often lead to beautiful destinations. Server Response
+RabbitMQ Stay hungry, stay foolish. Code Review Server Response To be the best, you must be able to handle the worst.
