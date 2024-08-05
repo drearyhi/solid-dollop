@@ -14,3 +14,4 @@ Great things never come from comfort zones. Event Sourcing Algorithm Opportuniti
 Event-driven Architecture To be the best, you must be able to handle the worst. Database Database Indexing Predictive Analytics Do what you love and the money will follow. Distributed Systems
 DevOps Monitoring If you can dream it, you can do it. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. A/B Testing OAuth Logging Security Pull Request Performance
 Performance Python I find that the harder I work, the more luck I seem to have. Testing Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. NLP
+API Edge Computing CI/CD Artificial Intelligence Opportunities don't happen. You create them. Serverless Neural Networks Difficult roads often lead to beautiful destinations. Server Response
