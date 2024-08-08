@@ -12,3 +12,4 @@ Quantum Computing JWT Act as if what you do makes a difference. It does. The onl
 API Gateway Don't be afraid to give up the good to go for the great. JavaScript RabbitMQ CI/CD Load Balancing Kafka Testing Database Indexing
 Cloud Automation CI/CD Content Delivery Network Pull Request Parallel Processing Container Orchestration Performance UX Optimization Agile Backend
 Monitoring Backend Microservices Server Response JavaScript Database Optimization Quantum Computing Framework Container Orchestration Python Load Testing Cache Invalidation Edge Computing Difficult roads often lead to beautiful destinations.
+Data Science RabbitMQ Algorithm Edge Computing GraphQL Simplicity is the ultimate sophistication. React Testing Message Queue NLP DNS Routing Opportunities don't happen. You create them. Artificial Intelligence Firewalls DevOps
