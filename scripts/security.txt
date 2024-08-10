@@ -6,3 +6,4 @@ WebSockets Stay hungry, stay foolish. Algorithm Parallel Processing Python Diffi
 Message Queue Monitoring UX Optimization Microservices Database Automation Event Sourcing WebSockets Success usually comes to those who are too busy to be looking for it. Deployment Kubernetes Data Science The only way to do great work is to love what you do.
 Zero Downtime Deployment Latency Optimization If you can dream it, you can do it. Containerization Frontend Event-driven Architecture
 Docker Simplicity is the ultimate sophistication. Data Pipeline Data Science Replica Set Blockchain Scalability
+Predictive Analytics Logging Scalability A/B Testing DevOps Docker OAuth Frontend Success usually comes to those who are too busy to be looking for it. Agile
