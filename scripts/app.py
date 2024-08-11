@@ -10,3 +10,4 @@ Data Pipeline IoT JWT The only way to do great work is to love what you do. Grea
 Blockchain Message Queue Content Delivery Network Backend Happiness is not something ready made. It comes from your own actions. A/B Testing
 Quantum Computing JWT Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. API
 API Gateway Don't be afraid to give up the good to go for the great. JavaScript RabbitMQ CI/CD Load Balancing Kafka Testing Database Indexing
+Cloud Automation CI/CD Content Delivery Network Pull Request Parallel Processing Container Orchestration Performance UX Optimization Agile Backend
