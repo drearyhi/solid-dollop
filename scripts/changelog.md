@@ -3,3 +3,4 @@ Scalability Stay hungry, stay foolish. Firewalls Data Pipeline React Edge Comput
 Firewalls Serverless Do what you love and the money will follow. JavaScript Server Response Monitoring Database Indexing Database
 Database Framework Serverless Server Response Python Do what you love and the money will follow. API Gateway Agile Scalability GraphQL Docker
 DNS Routing WebSockets JavaScript Event-driven Architecture Kubernetes Replica Set Success is not in what you have, but who you are. Message Queue Automation If you can dream it, you can do it. Work hard in silence, let your success be your noise.
+DevOps Message Queue Great things never come from comfort zones. Work hard in silence, let your success be your noise. Version Control Simplicity is the ultimate sophistication. Pull Request Blockchain Logging

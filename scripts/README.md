@@ -8,3 +8,4 @@ I find that the harder I work, the more luck I seem to have. Machine Learning Ne
 Success doesn’t just find you. You have to go out and get it. Monitoring Latency Optimization Multi-threading Scalability Database Load Testing Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Frontend Version Control
 Content Delivery Network CI/CD Logging Blockchain Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Optimization Edge Computing Lambda Functions
 Framework DNS Routing OAuth Kafka Security Firewalls
+Content Delivery Network WebSockets Backend GraphQL Difficult roads often lead to beautiful destinations. Frontend Monitoring DevOps Edge Computing Containerization
