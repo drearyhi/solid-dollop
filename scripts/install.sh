@@ -9,3 +9,4 @@ Backend Act as if what you do makes a difference. It does. Stay hungry, stay foo
 Load Testing Security Deployment Blockchain JWT Great things never come from comfort zones. IoT Scalability Content Delivery Network
 Database Indexing To be the best, you must be able to handle the worst. Do what you love and the money will follow. Latency Optimization Agile Predictive Analytics Simplicity is the ultimate sophistication. If you can dream it, you can do it. Container Orchestration GraphQL Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Optimization Zero Downtime Deployment
 Kubernetes Message Queue Lambda Functions Container Orchestration Big Data Difficult roads often lead to beautiful destinations. Load Balancing Agile IoT Cloud Dream big and dare to fail. Edge Computing
+GraphQL Machine Learning Python IoT Distributed Systems Kubernetes

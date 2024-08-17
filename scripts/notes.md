@@ -13,3 +13,4 @@ Blockchain Logging Distributed Systems Stay hungry, stay foolish. Cloud Pull Req
 Load Testing Quantum Computing Success usually comes to those who are too busy to be looking for it. Latency Optimization I find that the harder I work, the more luck I seem to have. Machine Learning Don't be afraid to give up the good to go for the great. Microservices API Gateway If you can dream it, you can do it. Logging
 Frontend Sharding Artificial Intelligence Predictive Analytics Containerization Multi-threading Happiness is not something ready made. It comes from your own actions. Event Sourcing CI/CD DNS Routing
 Kafka Monitoring A/B Testing OAuth Performance WebSockets UX Optimization
+Data Science Kafka Microservices Edge Computing Frontend Zero Downtime Deployment Machine Learning JavaScript
