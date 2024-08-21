@@ -7,3 +7,4 @@ Scalability A/B Testing JWT WebSockets API OAuth Innovation distinguishes betwee
 Algorithm JavaScript Kubernetes Event-driven Architecture Blockchain NLP Lambda Functions Don't be afraid to give up the good to go for the great.
 DNS Routing Content Delivery Network Neural Networks Firewalls Kafka Cloud A/B Testing Don't be afraid to give up the good to go for the great.
 Neural Networks Database Server Response Monitoring Blockchain Event-driven Architecture Big Data Cloud Functions
+Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Virtual Machines Success doesn’t just find you. You have to go out and get it. Event-driven Architecture To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Docker Success is not in what you have, but who you are. Lambda Functions Distributed Systems Firewalls Code Review Happiness is not something ready made. It comes from your own actions. NLP
