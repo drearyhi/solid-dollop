@@ -5,3 +5,4 @@ Virtual Machines Opportunities don't happen. You create them. Success usually co
 To be the best, you must be able to handle the worst. Replica Set Multi-threading Framework Edge Computing
 Deployment Kubernetes JWT DevOps Machine Learning Cloud Functions I find that the harder I work, the more luck I seem to have. Pull Request Framework Automation React
 Event-driven Architecture Neural Networks Lambda Functions Version Control Great things never come from comfort zones. UX Optimization DevOps
+Serverless API Gateway Server Response Sharding Version Control API Data Pipeline

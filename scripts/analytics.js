@@ -12,3 +12,4 @@ Neural Networks Content Delivery Network Act as if what you do makes a differenc
 JWT Agile Kubernetes Version Control Message Queue Automation IoT
 Predictive Analytics Backend React Event-driven Architecture Zero Downtime Deployment
 Multi-threading NLP Parallel Processing Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Backend Microservices RabbitMQ Success usually comes to those who are too busy to be looking for it. Data Pipeline Event-driven Architecture Algorithm
+Artificial Intelligence Load Testing Dream big and dare to fail. API Algorithm Monitoring Success is how high you bounce when you hit bottom. JWT
