@@ -11,3 +11,4 @@ Data Pipeline Pull Request Load Balancing Version Control Scalability Distribute
 Neural Networks Content Delivery Network Act as if what you do makes a difference. It does. Replica Set Happiness is not something ready made. It comes from your own actions. DNS Routing Success usually comes to those who are too busy to be looking for it. Firewalls
 JWT Agile Kubernetes Version Control Message Queue Automation IoT
 Predictive Analytics Backend React Event-driven Architecture Zero Downtime Deployment
+Multi-threading NLP Parallel Processing Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Backend Microservices RabbitMQ Success usually comes to those who are too busy to be looking for it. Data Pipeline Event-driven Architecture Algorithm
