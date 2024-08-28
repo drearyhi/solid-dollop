@@ -4,3 +4,4 @@ Version Control Kafka DNS Routing Success is not in what you have, but who you a
 Virtual Machines Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. DNS Routing Multi-threading Framework Pull Request A/B Testing IoT Event Sourcing Security Database Indexing I find that the harder I work, the more luck I seem to have.
 To be the best, you must be able to handle the worst. Replica Set Multi-threading Framework Edge Computing
 Deployment Kubernetes JWT DevOps Machine Learning Cloud Functions I find that the harder I work, the more luck I seem to have. Pull Request Framework Automation React
+Event-driven Architecture Neural Networks Lambda Functions Version Control Great things never come from comfort zones. UX Optimization DevOps

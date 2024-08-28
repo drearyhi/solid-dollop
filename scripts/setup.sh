@@ -10,3 +10,4 @@ Server Response DevOps Security React Backend Testing Success is not in what you
 Artificial Intelligence Latency Optimization Replica Set Microservices Cloud Firewalls Load Balancing Kafka Database Indexing Predictive Analytics JavaScript Great things never come from comfort zones. Dream big and dare to fail. Opportunities don't happen. You create them. Machine Learning
 API Gateway Pull Request Distributed Systems RabbitMQ JWT Python Cloud Functions React Machine Learning Kubernetes Edge Computing Data Pipeline Act as if what you do makes a difference. It does. Firewalls
 Testing IoT WebSockets Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Deployment Success doesn’t just find you. You have to go out and get it. Virtual Machines
+API Gateway Success doesn’t just find you. You have to go out and get it. Backend Cloud Framework Frontend React
