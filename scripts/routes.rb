@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Code Review Containerizati
 Replica Set Framework Virtual Machines Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Cloud Pull Request Opportunities don't happen. You create them. Big Data Distributed Systems Python Message Queue Zero Downtime Deployment
 Event Sourcing Cache Invalidation Lambda Functions Performance JWT Artificial Intelligence Code Review Latency Optimization Docker OAuth Big Data UX Optimization Framework
 Load Balancing UX Optimization Event Sourcing Message Queue Automation API JWT
+Act as if what you do makes a difference. It does. Docker Kafka Data Science Load Testing Framework Automation Success is how high you bounce when you hit bottom.
