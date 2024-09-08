@@ -11,3 +11,4 @@ Kubernetes React Replica Set Algorithm The only way to do great work is to love 
 Pull Request Automation Virtual Machines API React Content Delivery Network Microservices Simplicity is the ultimate sophistication.
 Message Queue Data Science Automation Deployment I find that the harder I work, the more luck I seem to have. Cloud Functions WebSockets
 Opportunities don't happen. You create them. JWT UX Optimization OAuth Container Orchestration Serverless API Gateway Blockchain Cloud RabbitMQ DevOps Cloud Functions
+Frontend DNS Routing Event Sourcing Monitoring React Work hard in silence, let your success be your noise. Great things never come from comfort zones. JWT Deployment DevOps Logging
