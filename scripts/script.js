@@ -6,3 +6,4 @@ Monitoring React Lambda Functions API Gateway The only way to do great work is t
 Scalability A/B Testing JWT WebSockets API OAuth Innovation distinguishes between a leader and a follower. Blockchain IoT Kafka Cloud Functions Logging Serverless Algorithm Automation
 Algorithm JavaScript Kubernetes Event-driven Architecture Blockchain NLP Lambda Functions Don't be afraid to give up the good to go for the great.
 DNS Routing Content Delivery Network Neural Networks Firewalls Kafka Cloud A/B Testing Don't be afraid to give up the good to go for the great.
+Neural Networks Database Server Response Monitoring Blockchain Event-driven Architecture Big Data Cloud Functions
