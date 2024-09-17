@@ -9,3 +9,4 @@ DevOps Distributed Systems Load Testing Happiness is not something ready made. I
 API Gateway API Distributed Systems To be the best, you must be able to handle the worst. Message Queue
 GraphQL Dream big and dare to fail. RabbitMQ Deployment Monitoring Database Success is not in what you have, but who you are. Container Orchestration Cache Invalidation UX Optimization Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. OAuth Load Balancing DevOps
 Cloud Functions Latency Optimization Data Pipeline Monitoring Cache Invalidation Success doesn’t just find you. You have to go out and get it. Big Data RabbitMQ Code Review Performance Serverless
+Load Balancing Code Review Framework Optimization Event-driven Architecture Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Serverless WebSockets Stay hungry, stay foolish. Containerization Python
