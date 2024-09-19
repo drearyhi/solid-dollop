@@ -6,3 +6,4 @@ DevOps Distributed Systems Opportunities don't happen. You create them. Cache In
 Don't be afraid to give up the good to go for the great. Security Firewalls Machine Learning RabbitMQ Predictive Analytics Automation Frontend
 Container Orchestration Frontend Version Control Agile Microservices Kafka Distributed Systems Scalability Message Queue Virtual Machines A/B Testing
 Monitoring Version Control WebSockets Load Balancing Simplicity is the ultimate sophistication. Quantum Computing Cloud Functions Framework Latency Optimization
+Data Pipeline IoT JWT The only way to do great work is to love what you do. Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. WebSockets Happiness is not something ready made. It comes from your own actions. Algorithm OAuth Distributed Systems
