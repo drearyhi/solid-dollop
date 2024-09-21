@@ -8,3 +8,4 @@ Monitoring Cloud Functions Serverless Message Queue Act as if what you do makes 
 Machine Learning Event Sourcing Version Control Dream big and dare to fail. OAuth Microservices
 Server Response DevOps Security React Backend Testing Success is not in what you have, but who you are. Distributed Systems Stay hungry, stay foolish. Machine Learning
 Artificial Intelligence Latency Optimization Replica Set Microservices Cloud Firewalls Load Balancing Kafka Database Indexing Predictive Analytics JavaScript Great things never come from comfort zones. Dream big and dare to fail. Opportunities don't happen. You create them. Machine Learning
+API Gateway Pull Request Distributed Systems RabbitMQ JWT Python Cloud Functions React Machine Learning Kubernetes Edge Computing Data Pipeline Act as if what you do makes a difference. It does. Firewalls
