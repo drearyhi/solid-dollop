@@ -8,3 +8,4 @@ Simplicity is the ultimate sophistication. A/B Testing Innovation distinguishes 
 Scalability Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Kubernetes React Optimization Dream big and dare to fail. Zero Downtime Deployment Testing Opportunities don't happen. You create them. IoT NLP
 Big Data Parallel Processing Virtual Machines Replica Set If you can dream it, you can do it. Great things never come from comfort zones.
 Stay hungry, stay foolish. Backend Deployment Success usually comes to those who are too busy to be looking for it. Docker
+RabbitMQ To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Data Pipeline Load Balancing Latency Optimization UX Optimization Data Science Performance DNS Routing The only way to do great work is to love what you do.
