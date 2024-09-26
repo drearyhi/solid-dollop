@@ -7,3 +7,4 @@ Serverless Big Data Deployment Latency Optimization Virtual Machines Kafka Agile
 Backend JavaScript Container Orchestration Firewalls Frontend
 To be the best, you must be able to handle the worst. Code Review Containerization Zero Downtime Deployment Monitoring Work hard in silence, let your success be your noise. API Great things never come from comfort zones. Machine Learning Do what you love and the money will follow. Testing Performance Load Testing CI/CD Cloud
 Replica Set Framework Virtual Machines Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Cloud Pull Request Opportunities don't happen. You create them. Big Data Distributed Systems Python Message Queue Zero Downtime Deployment
+Event Sourcing Cache Invalidation Lambda Functions Performance JWT Artificial Intelligence Code Review Latency Optimization Docker OAuth Big Data UX Optimization Framework
