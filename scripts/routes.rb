@@ -6,3 +6,4 @@ Python Stay hungry, stay foolish. If you can dream it, you can do it. Docker Suc
 Serverless Big Data Deployment Latency Optimization Virtual Machines Kafka Agile Distributed Systems Do what you love and the money will follow. Python
 Backend JavaScript Container Orchestration Firewalls Frontend
 To be the best, you must be able to handle the worst. Code Review Containerization Zero Downtime Deployment Monitoring Work hard in silence, let your success be your noise. API Great things never come from comfort zones. Machine Learning Do what you love and the money will follow. Testing Performance Load Testing CI/CD Cloud
+Replica Set Framework Virtual Machines Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Cloud Pull Request Opportunities don't happen. You create them. Big Data Distributed Systems Python Message Queue Zero Downtime Deployment
