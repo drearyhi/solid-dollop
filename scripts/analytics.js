@@ -8,3 +8,4 @@ Version Control Replica Set Edge Computing JWT Predictive Analytics Success usua
 GraphQL Serverless Predictive Analytics Optimization Quantum Computing Load Balancing Event Sourcing
 A/B Testing Framework Quantum Computing Don't be afraid to give up the good to go for the great. Performance
 Data Pipeline Pull Request Load Balancing Version Control Scalability Distributed Systems Database Indexing Data Science To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Virtual Machines DNS Routing Code Review
+Neural Networks Content Delivery Network Act as if what you do makes a difference. It does. Replica Set Happiness is not something ready made. It comes from your own actions. DNS Routing Success usually comes to those who are too busy to be looking for it. Firewalls
