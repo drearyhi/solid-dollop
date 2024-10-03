@@ -4,3 +4,4 @@ Load Balancing Don't be afraid to give up the good to go for the great. Act as i
 Optimization Logging API Load Balancing API Gateway OAuth Data Pipeline Stay hungry, stay foolish. Simplicity is the ultimate sophistication. React NLP
 Python Database A/B Testing Success doesn’t just find you. You have to go out and get it. Pull Request Simplicity is the ultimate sophistication.
 Happiness is not something ready made. It comes from your own actions. Version Control Act as if what you do makes a difference. It does. Machine Learning Code Review Containerization Quantum Computing Server Response Content Delivery Network Distributed Systems
+API Gateway CI/CD Machine Learning Content Delivery Network UX Optimization Quantum Computing Serverless Python Load Balancing JWT API Load Testing OAuth

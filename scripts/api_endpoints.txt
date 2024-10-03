@@ -5,3 +5,4 @@ Artificial Intelligence Stay hungry, stay foolish. Code Review RabbitMQ Message 
 DevOps Version Control Opportunities don't happen. You create them. UX Optimization Testing Success is not in what you have, but who you are. Server Response Firewalls Code Review Dream big and dare to fail. Docker Pull Request
 Docker Algorithm Cache Invalidation UX Optimization CI/CD
 Cloud Functions JavaScript React Firewalls Framework Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Serverless Kafka Replica Set Don't be afraid to give up the good to go for the great.
+Data Science Virtual Machines Parallel Processing Microservices Server Response Machine Learning Optimization Event Sourcing Logging Multi-threading Deployment JavaScript Act as if what you do makes a difference. It does.
