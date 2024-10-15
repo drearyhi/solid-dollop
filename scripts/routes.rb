@@ -5,3 +5,4 @@ Scalability Python RabbitMQ Latency Optimization Virtual Machines Database Datab
 Python Stay hungry, stay foolish. If you can dream it, you can do it. Docker Success doesn’t just find you. You have to go out and get it. Testing Event Sourcing I find that the harder I work, the more luck I seem to have. Replica Set Cloud Functions
 Serverless Big Data Deployment Latency Optimization Virtual Machines Kafka Agile Distributed Systems Do what you love and the money will follow. Python
 Backend JavaScript Container Orchestration Firewalls Frontend
+To be the best, you must be able to handle the worst. Code Review Containerization Zero Downtime Deployment Monitoring Work hard in silence, let your success be your noise. API Great things never come from comfort zones. Machine Learning Do what you love and the money will follow. Testing Performance Load Testing CI/CD Cloud
