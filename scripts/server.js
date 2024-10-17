@@ -8,3 +8,4 @@ Docker Pull Request RabbitMQ CI/CD OAuth Dream big and dare to fail. Simplicity 
 GraphQL Optimization Frontend Blockchain JavaScript Kubernetes JWT
 Microservices Parallel Processing Security Container Orchestration CI/CD Cache Invalidation Innovation distinguishes between a leader and a follower. Database
 Kubernetes React Replica Set Algorithm The only way to do great work is to love what you do. NLP Frontend Cloud Functions Database Success usually comes to those who are too busy to be looking for it.
+Pull Request Automation Virtual Machines API React Content Delivery Network Microservices Simplicity is the ultimate sophistication.

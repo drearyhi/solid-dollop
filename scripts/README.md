@@ -5,3 +5,4 @@ Version Control Serverless Cloud Containerization Data Science Frontend Firewall
 Database Difficult roads often lead to beautiful destinations. Code Review Artificial Intelligence UX Optimization Kafka A/B Testing Event Sourcing Blockchain Containerization Serverless Load Testing JWT
 GraphQL Data Pipeline Cloud Functions OAuth Server Response Container Orchestration
 I find that the harder I work, the more luck I seem to have. Machine Learning Neural Networks Stay hungry, stay foolish. JWT
+Success doesn’t just find you. You have to go out and get it. Monitoring Latency Optimization Multi-threading Scalability Database Load Testing Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Frontend Version Control
