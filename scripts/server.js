@@ -7,3 +7,4 @@ Security Database Virtual Machines OAuth Frontend Happiness is not something rea
 Docker Pull Request RabbitMQ CI/CD OAuth Dream big and dare to fail. Simplicity is the ultimate sophistication.
 GraphQL Optimization Frontend Blockchain JavaScript Kubernetes JWT
 Microservices Parallel Processing Security Container Orchestration CI/CD Cache Invalidation Innovation distinguishes between a leader and a follower. Database
+Kubernetes React Replica Set Algorithm The only way to do great work is to love what you do. NLP Frontend Cloud Functions Database Success usually comes to those who are too busy to be looking for it.
