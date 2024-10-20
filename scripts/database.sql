@@ -6,3 +6,4 @@ Code Review Happiness is not something ready made. It comes from your own action
 Stay hungry, stay foolish. Firewalls Deployment Security Lambda Functions
 I find that the harder I work, the more luck I seem to have. GraphQL Quantum Computing Cache Invalidation Message Queue
 DevOps Distributed Systems Load Testing Happiness is not something ready made. It comes from your own actions. Quantum Computing
+API Gateway API Distributed Systems To be the best, you must be able to handle the worst. Message Queue
