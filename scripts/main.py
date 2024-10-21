@@ -9,3 +9,4 @@ Backend NLP Edge Computing Framework Distributed Systems Sharding DNS Routing
 JavaScript Server Response Version Control Zero Downtime Deployment Multi-threading Database Quantum Computing API Container Orchestration
 Load Balancing Frontend Multi-threading The only way to do great work is to love what you do. Content Delivery Network
 Server Response IoT Dream big and dare to fail. Logging Do what you love and the money will follow. Quantum Computing Data Pipeline Kubernetes Testing Big Data Pull Request Success usually comes to those who are too busy to be looking for it. Event Sourcing
+API JWT WebSockets Kubernetes Python UX Optimization Success is not in what you have, but who you are. Predictive Analytics GraphQL Automation Data Science Frontend
