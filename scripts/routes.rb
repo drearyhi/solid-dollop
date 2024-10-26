@@ -3,3 +3,4 @@ Success doesn’t just find you. You have to go out and get it. Artificial Intelli
 Automation Cache Invalidation Algorithm Virtual Machines Lambda Functions Stay hungry, stay foolish. IoT Zero Downtime Deployment
 Scalability Python RabbitMQ Latency Optimization Virtual Machines Database Database Indexing Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. NLP Event-driven Architecture Artificial Intelligence API Gateway Message Queue
 Python Stay hungry, stay foolish. If you can dream it, you can do it. Docker Success doesn’t just find you. You have to go out and get it. Testing Event Sourcing I find that the harder I work, the more luck I seem to have. Replica Set Cloud Functions
+Serverless Big Data Deployment Latency Optimization Virtual Machines Kafka Agile Distributed Systems Do what you love and the money will follow. Python
