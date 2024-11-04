@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Kafka Log
 Success doesn’t just find you. You have to go out and get it. Algorithm Latency Optimization Lambda Functions API Gateway Automation Cloud Opportunities don't happen. You create them.
 IoT Framework Scalability Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. API Data Pipeline Don't be afraid to give up the good to go for the great. Replica Set Parallel Processing Distributed Systems Success doesn’t just find you. You have to go out and get it. Containerization
 Monitoring Cloud Functions Serverless Message Queue Act as if what you do makes a difference. It does. Testing Performance Server Response
+Machine Learning Event Sourcing Version Control Dream big and dare to fail. OAuth Microservices
