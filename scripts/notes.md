@@ -6,3 +6,4 @@ Virtual Machines Server Response Kubernetes API Gateway Frontend Cache Invalidat
 Data Science Scalability Automation Load Balancing Replica Set Dream big and dare to fail. Zero Downtime Deployment Do what you love and the money will follow. Microservices Framework
 Simplicity is the ultimate sophistication. A/B Testing Innovation distinguishes between a leader and a follower. Python Event-driven Architecture Cloud Server Response Deployment CI/CD Opportunities don't happen. You create them. JWT
 Scalability Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Kubernetes React Optimization Dream big and dare to fail. Zero Downtime Deployment Testing Opportunities don't happen. You create them. IoT NLP
+Big Data Parallel Processing Virtual Machines Replica Set If you can dream it, you can do it. Great things never come from comfort zones.
