@@ -5,3 +5,4 @@ NLP Code Review Container Orchestration Frontend Kubernetes DNS Routing Pull Req
 Big Data API Sharding Machine Learning Security Message Queue Agile
 Security Database Virtual Machines OAuth Frontend Happiness is not something ready made. It comes from your own actions. Content Delivery Network Kubernetes Backend
 Docker Pull Request RabbitMQ CI/CD OAuth Dream big and dare to fail. Simplicity is the ultimate sophistication.
+GraphQL Optimization Frontend Blockchain JavaScript Kubernetes JWT
