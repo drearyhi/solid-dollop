@@ -5,3 +5,4 @@ Content Delivery Network Innovation distinguishes between a leader and a followe
 Cloud Work hard in silence, let your success be your noise. Code Review Blockchain Serverless Distributed Systems Microservices Do what you love and the money will follow. Success is not in what you have, but who you are.
 Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Predictive Analytics React Machine Learning Server Response Containerization
 Version Control Replica Set Edge Computing JWT Predictive Analytics Success usually comes to those who are too busy to be looking for it. Performance Content Delivery Network Success is how high you bounce when you hit bottom. Lambda Functions DNS Routing Stay hungry, stay foolish. Distributed Systems
+GraphQL Serverless Predictive Analytics Optimization Quantum Computing Load Balancing Event Sourcing
