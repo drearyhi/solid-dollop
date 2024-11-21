@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Event Sourcing Cache In
 DNS Routing OAuth Load Testing The only way to do great work is to love what you do. Blockchain Load Balancing
 Kafka Docker API Gateway RabbitMQ Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Latency Optimization Backend Kubernetes Deployment Automation GraphQL Logging Framework Performance
 Firewalls Sharding WebSockets Multi-threading Neural Networks Optimization Big Data Docker Server Response Code Review Zero Downtime Deployment
+Backend NLP Edge Computing Framework Distributed Systems Sharding DNS Routing
