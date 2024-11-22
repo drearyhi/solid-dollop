@@ -4,3 +4,4 @@ Zero Downtime Deployment UX Optimization Artificial Intelligence Virtual Machine
 Lambda Functions Virtual Machines Code Review Replica Set UX Optimization Artificial Intelligence Do what you love and the money will follow. Python Load Balancing
 Load Testing Deployment Multi-threading Database Great things never come from comfort zones. NLP React Difficult roads often lead to beautiful destinations.
 Event-driven Architecture API Simplicity is the ultimate sophistication. Pull Request Success doesn’t just find you. You have to go out and get it. Container Orchestration NLP Containerization Cache Invalidation Blockchain Lambda Functions To be the best, you must be able to handle the worst. Sharding
+Zero Downtime Deployment Virtual Machines The only way to do great work is to love what you do. Python Kubernetes RabbitMQ React Frontend JWT Happiness is not something ready made. It comes from your own actions. Agile Content Delivery Network Automation JavaScript
