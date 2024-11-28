@@ -5,3 +5,4 @@ JavaScript Opportunities don't happen. You create them. A/B Testing Latency Opti
 DevOps Distributed Systems Opportunities don't happen. You create them. Cache Invalidation Act as if what you do makes a difference. It does. Data Science Simplicity is the ultimate sophistication. Event Sourcing Deployment Success is not in what you have, but who you are. Serverless
 Don't be afraid to give up the good to go for the great. Security Firewalls Machine Learning RabbitMQ Predictive Analytics Automation Frontend
 Container Orchestration Frontend Version Control Agile Microservices Kafka Distributed Systems Scalability Message Queue Virtual Machines A/B Testing
+Monitoring Version Control WebSockets Load Balancing Simplicity is the ultimate sophistication. Quantum Computing Cloud Functions Framework Latency Optimization
