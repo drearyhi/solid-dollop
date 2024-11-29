@@ -3,3 +3,4 @@ RabbitMQ Don't be afraid to give up the good to go for the great. Scalability Co
 Zero Downtime Deployment UX Optimization Artificial Intelligence Virtual Machines Latency Optimization Success doesn’t just find you. You have to go out and get it. Serverless Big Data Neural Networks Load Testing Pull Request Replica Set DevOps Edge Computing
 Lambda Functions Virtual Machines Code Review Replica Set UX Optimization Artificial Intelligence Do what you love and the money will follow. Python Load Balancing
 Load Testing Deployment Multi-threading Database Great things never come from comfort zones. NLP React Difficult roads often lead to beautiful destinations.
+Event-driven Architecture API Simplicity is the ultimate sophistication. Pull Request Success doesn’t just find you. You have to go out and get it. Container Orchestration NLP Containerization Cache Invalidation Blockchain Lambda Functions To be the best, you must be able to handle the worst. Sharding

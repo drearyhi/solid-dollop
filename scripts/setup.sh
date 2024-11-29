@@ -1,2 +1,3 @@
 Work hard in silence, let your success be your noise. Code Review Do what you love and the money will follow. Automation Success usually comes to those who are too busy to be looking for it. Microservices Data Science Big Data Event-driven Architecture CI/CD DNS Routing Distributed Systems
 Algorithm Code Review Logging Parallel Processing CI/CD Success doesn’t just find you. You have to go out and get it. Performance Replica Set Distributed Systems
+Database Do what you love and the money will follow. Serverless Blockchain DevOps Monitoring CI/CD Load Balancing Testing Multi-threading UX Optimization Microservices Success usually comes to those who are too busy to be looking for it.
