@@ -1,3 +1,4 @@
 React Latency Optimization Message Queue Work hard in silence, let your success be your noise. Virtual Machines GraphQL Stay hungry, stay foolish. Deployment Automation UX Optimization Security Event-driven Architecture
 Microservices UX Optimization React Server Response Lambda Functions To be the best, you must be able to handle the worst. Event Sourcing RabbitMQ Monitoring
 Kubernetes Work hard in silence, let your success be your noise. Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Multi-threading Containerization UX Optimization
+Artificial Intelligence Stay hungry, stay foolish. Code Review RabbitMQ Message Queue A/B Testing Great things never come from comfort zones. Scalability Sharding Multi-threading

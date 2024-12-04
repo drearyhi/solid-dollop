@@ -3,3 +3,4 @@ Sharding Virtual Machines Blockchain Parallel Processing A/B Testing Database Di
 Deployment Work hard in silence, let your success be your noise. Kubernetes Algorithm Backend DevOps Cloud Functions Parallel Processing Difficult roads often lead to beautiful destinations.
 Zero Downtime Deployment Simplicity is the ultimate sophistication. Lambda Functions Algorithm Frontend JWT Monitoring Message Queue Dream big and dare to fail. Version Control Parallel Processing Kubernetes Server Response Edge Computing Artificial Intelligence
 Code Review Happiness is not something ready made. It comes from your own actions. API Stay hungry, stay foolish. Machine Learning Content Delivery Network Blockchain JWT
+Stay hungry, stay foolish. Firewalls Deployment Security Lambda Functions
