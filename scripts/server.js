@@ -2,3 +2,4 @@ GraphQL CI/CD JWT Neural Networks Security Data Pipeline Success usually comes t
 NLP Cloud Replica Set Container Orchestration Backend The only way to do great work is to love what you do. WebSockets Event Sourcing Data Pipeline Opportunities don't happen. You create them. Predictive Analytics React
 Framework Quantum Computing Optimization Testing Success doesn’t just find you. You have to go out and get it. Version Control Content Delivery Network Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. API Data Pipeline
 NLP Code Review Container Orchestration Frontend Kubernetes DNS Routing Pull Request
+Big Data API Sharding Machine Learning Security Message Queue Agile
