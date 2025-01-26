@@ -1,1 +1,2 @@
 Artificial Intelligence Cloud Server Response Container Orchestration Kubernetes Data Science Sharding DevOps NLP Event Sourcing I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow.
+RabbitMQ Opportunities don't happen. You create them. NLP Event-driven Architecture JWT API Gateway UX Optimization Cloud Functions Parallel Processing Algorithm Scalability DNS Routing Containerization Framework Virtual Machines
